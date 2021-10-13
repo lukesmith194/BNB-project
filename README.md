@@ -16,7 +16,7 @@ To clean and enrich the data, various techniques have been used, such as:
 - Use of unix timestamp and its conversion into legible date time.
 - Merge between two datasets, using merge option.
 
-Various libraries were used to import, transform and visualize the data given. These are:
+Various libraries were used to import, transform and visualize the data given. These are:  
 -Pandas [Here](https://pandas.pydata.org/docs/)  
 -Requests [Here](https://docs.python-requests.org/en/master/)  
 -Json [Here](https://docs.python.org/3/library/json.html)  
