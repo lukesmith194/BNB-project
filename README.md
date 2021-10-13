@@ -1,6 +1,6 @@
 BNB analysis project
 
-![Getting Started](images/bnb.jpg)
+![Getting Started](images/bnb.jfif)
 
 
 This project is base on the Binance Coin Data set [Here](https://www.kaggle.com/amritpal333/binance-coin-data) made by Dr. Amritpal Singh 
