@@ -1,8 +1,8 @@
 BNB analysis project
 
 This project is base on the Binance Coin Data set [Here](https://www.kaggle.com/amritpal333/binance-coin-data) made by Dr. Amritpal Singh 
-and enriched using the CoinGecko api [here](https://www.coingecko.com/es/api/documentation?) [here](https://api.coingecko.com/api/v3/coins/binancecoin/market_chart/range?vs_currency=usd&from=1510185600&to=1627344000000)
-for additional information to be able to analyze the BNB token to its potential.
+and enriched using the CoinGecko api [here](https://www.coingecko.com/es/api/documentation?). Specific BNB api link.[here](https://api.coingecko.com/api/v3/coins/binancecoin/market_chart/range?vs_currency=usd&from=1510185600&to=1627344000000)
+For additional information to be able to analyze the BNB token to its potential.
 This project is to be able to understand better the previous movements of this token and to be able to project its future with further exploration.
 All of the exploration into the data has been carried out with Python using Jupyter Notebook [here](https://jupyter-notebook.readthedocs.io/en/stable/) and VCS(VisualStudioCode) [here](https://code.visualstudio.com/docs)
 
